@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0143de93-5fa4-4b64-8e01-61d5f01455a9)
+[screencast-localhost_3000-2024_09_24-12_00_18.webm](https://github.com/user-attachments/assets/d9a8e3c0-268c-4061-80a5-b38c1b0d38d2)
 
 TheCatAPI: https://thecatapi.com/
 
