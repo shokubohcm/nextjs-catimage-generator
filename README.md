@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/0143de93-5fa4-4b64-8e01-61d5f01455a9)
+
+TheCatAPI: https://thecatapi.com/
+
+
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
